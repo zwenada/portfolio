@@ -1,0 +1,61 @@
+html {
+  font-family: "Merriweather", serif;
+  background-color: #001f3f;
+}
+
+#myself {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.container {
+  padding: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: #ffff;
+}
+
+.title {
+  /* background-color: aqua; */
+  border: 5px solid gold;
+  padding: 25px;
+  text-align: center;
+  color: white;
+}
+
+.myself {
+  border-radius: 50%;
+}
+
+#skills {
+  /* font-family: "Merriweather", serif; */
+  font-weight: 400;
+  font-style: normal;
+  border: 3px solid gold;
+  padding: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #ffff;
+}
+
+#project {
+  /* font-family: "Merriweather", serif; */
+  font-weight: 400;
+  font-style: normal;
+  border: 3px solid gold;
+  padding: 25px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #ffff;
+}
+
+#contact {
+  /* font-family: "Merriweather", serif; */
+  padding: 25px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  color: #ffff;
+}
